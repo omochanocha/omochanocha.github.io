@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RW-OoPy1cdD4TAcShxBw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="530" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RW-OoPy1cdD4TAcShxBw-4" value="Vercel" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;shadow=0;strokeWidth=1;fillStyle=auto;fillColor=#E6E6E6;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;direction=west;glass=0;imageAspect=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="531" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
